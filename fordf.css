@@ -1,0 +1,44 @@
+* {
+    border: 1px solid black;
+}
+
+body {
+    background-color: rgb(77, 77, 250);
+}
+
+header {
+    background-color: gray;
+    color: white;
+    padding: 10px 25px;
+    text-align: center;
+}
+
+nav {
+    background-color: gray;
+    color: white;
+}
+
+li {
+    background-color: rgb(77, 77, 250);
+    max-width: 50px;
+    display: inline;
+    align-items: left;
+    float: left;
+}
+
+footer {
+    background-color: gray;
+    color: white;
+}
+
+h1 {
+    color: white;
+    font-size: 64px;
+    
+}
+
+nav {
+    margin: (15, 45);
+    padding: (15, 45);
+    border: 15px;
+}
