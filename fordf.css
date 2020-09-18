@@ -97,18 +97,6 @@ footer {
     clear: both;
   }
 
-#button {
-    background-color: orange;
-    /* border: none; */
-    /* color: white; */
-    padding: 45px 25px 45px 0px;
-    text-align: center;
-    /* text-decoration: none; */
-    /* display: inline-block; */
-    /* font-size: 24px; */
-    object-position: center;
-  }
-
 @media screen and (max-width: 600px) {
 .column {
     width: 100%;

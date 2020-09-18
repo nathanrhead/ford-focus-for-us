@@ -10,7 +10,3 @@ if (yeahFord == !true) {
 }
 
 
-
-// if (readyFord = "Yes" || "yes" || "Yeehaw" || "Yessir" || "Yeah, baby" || "You know it") {
-//     document.write("Rad!")
-}
