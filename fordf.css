@@ -26,7 +26,8 @@ nav {
     Margin: 5px 0px 5px 0px; 
     text-align: center;
     border-color: black;
-    border-width: 10px 0px 10px 10px;
+    border-width: 0px 0px 0px 10px;
+    border-style: solid;
       }
 
 ul {
@@ -64,6 +65,7 @@ p {
     text-align: left;
     margin: 15px 30px;
     font-size: 18px;
+    color: white;
 }
 
 h1 {
@@ -93,6 +95,18 @@ footer {
     content: "";
     display: table;
     clear: both;
+  }
+
+#button {
+    background-color: orange;
+    /* border: none; */
+    /* color: white; */
+    padding: 45px 25px 45px 0px;
+    text-align: center;
+    /* text-decoration: none; */
+    /* display: inline-block; */
+    /* font-size: 24px; */
+    object-position: center;
   }
 
 @media screen and (max-width: 600px) {
